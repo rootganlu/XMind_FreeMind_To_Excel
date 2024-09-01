@@ -1,0 +1,2 @@
+# XMind_FreeMind_To_Excel
+根据Xmind或FreeMind思维导图及模版生成Excel测试用例。
